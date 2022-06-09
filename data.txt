@@ -52,11 +52,11 @@
     "thumb": "https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/thumb/wwdc1.jpg"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/52.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/51.jpg",
     "thumb": "https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/thumb/51.jpg"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/51.jpg",
+    "url": "https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/52.jpg",
     "thumb": "https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/thumb/52.jpg"
   },
   {
